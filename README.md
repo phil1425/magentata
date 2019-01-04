@@ -9,7 +9,7 @@ This is the most recognizable part of the Telescope. Its a parabolic surface tha
 - Holes not bigger than 1/10th of the Wavelength (2cm)
 - Surface deviations not bigger than 1% of the Wavelenght (2mm)  
   
-As a solution to these requirements we came up with a dish with a diameter of 3.7m made from 19 hexagonal elements. Each of those elements is made from 40cm long plywood pieces which are held togehter by small 3d printed pieces and hot glue. The inner 7 are mounted onto a scaffold made from broomsticks 3d printed parts. The whole dish is covered with chicken wire with a Mesh size of 13mm from the inside.  
+As a solution to these requirements we came up with a dish with a diameter of 3.7m made from 19 hexagonal elements. Each of those elements is made from 40cm long plywood pieces which are held togehter by small 3d printed pieces and hot glue. The inner 7 are mounted onto a scaffold made from broomsticks and 3d printed parts. The whole dish is covered with chicken wire with a Mesh size of 13mm. 
   
 **Pros**
 - Easy to disassemble into 25 parts not bigger than 1m
