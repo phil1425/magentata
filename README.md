@@ -11,12 +11,12 @@ This is the most recognizable part of the Telescope. Its a parabolic surface tha
   
 As a solution to these requirements we came up with a dish with a diameter of 3.7m made from 19 hexagonal elements. Each of those elements is made from 40cm long plywood pieces which are held togehter by small 3d printed pieces and hot glue. The inner 7 are mounted onto a scaffold made from broomsticks and 3d printed parts. The whole dish is covered with chicken wire with a Mesh size of 13mm. The whole design was made in Fusion360
 
-![Reflector design in Fusion 360](fusion-perspektive.png)
-![Reflector design in Fusion 360](closeup-element.png)
-![Reflector design in Fusion 360](closeup-mount.png)
-![Reflector design in Fusion 360](frontal.png)
-![Reflector design in Fusion 360](oben.png)
-![Reflector design in Fusion 360](perspektive.png)
+![Reflector design in Fusion 360](https://github.com/phil1425/magentata/fusion-perspektive.png)
+![Reflector design in Fusion 360](https://github.com/phil1425/magentata/closeup-element.png)
+![Reflector design in Fusion 360](https://github.com/phil1425/magentata/closeup-mount.png)
+![Reflector design in Fusion 360](https://github.com/phil1425/magentata/frontal.png)
+![Reflector design in Fusion 360](https://github.com/phil1425/magentata/oben.png)
+![Reflector design in Fusion 360](https://github.com/phil1425/magentata/perspektive.png)
   
 **Pros**
 - Easy to disassemble into 25 parts not bigger than 1m
