@@ -1,4 +1,4 @@
-## Building a 4m radio telescope for the 21cm hydrogen line (and other things too)
+## Building a 4m radio telescope for the 21cm hydrogen line (and other things)
 ### Reflector
 This is the most recognizable part of the Telescope. Its a parabolic surface that reflects all the incoming radiation into the focal point, where the actual antenna (called feed) picks up the signal.  
 
