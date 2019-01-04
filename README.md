@@ -16,12 +16,12 @@ As a solution to these requirements we came up with a dish with a diameter of 3.
 - About 600 inividual parts made of plywood and 300 3d printed parts
 - Not very rigid, wont survive permanently outdoors
 ### Azimuth mount
-This will move the Antenna around so it can be pointed at any point at the sky. Later it will hopefully be motorized and controllable by a computer. For now it can only be moved manually.
+This will move the Antenna around so it can be pointed anywhere at the sky. Later it will hopefully be motorized and controllable by a computer. For now it can only be moved manually.
 ### Feed Horn
-The feed is the part that picks up the radiation so it can be amplified and measured. Basically its a metal can that is open on one side.   
-The feed is based on the [design by Saje and Vidmar](http://antena.fe.uni-lj.si/literatura/Razno/Diplome/Radioteleskop/clanek/radioteleskop.pdf).  
+The feed is the part that picks up the radiation so it can be amplified and measured. Basically its a metal can that is open on one side with a small exposed wire inside.  
+The feed is based on this [design by Saje and Vidmar](http://antena.fe.uni-lj.si/literatura/Razno/Diplome/Radioteleskop/clanek/radioteleskop.pdf).  
 The horn itself is made from 1mm Aluminium sheets: Two half-circles and a quadratic baseplate. After many failed attempts at TIG welding the sheets together we used rivets to form a cylinder. The cylinder was then welded to the baseplate.  
 Since the Horn was Rigid enough, the choke was made from laser-cut cardboard covered in tin foil an directly attached to the baseplate
-We drilled a small hole into the side of the horn to attack a SMA connector.
+We drilled a small hole into the side of the horn to attach an SMA connector.
 ### Electronics
 ### Software
